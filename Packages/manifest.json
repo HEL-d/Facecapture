@@ -2,6 +2,7 @@
   "dependencies": {
     "com.readyplayerme.core": "https://github.com/readyplayerme/rpm-unity-sdk-core.git",
     "com.srcnalt.openai-unity": "https://github.com/srcnalt/OpenAI-Unity.git",
+    "com.unity.addressables": "1.21.20",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.formats.fbx": "4.2.1",

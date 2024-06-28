@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0b97b38f2f1fd24185315141a6c6a56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skinnedMeshRenderer: {fileID: 0}
+  skinnedMeshRenderer: {fileID: 2111965557}
   visemeToBlendTargets: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
   enableVisemeTestKeys: 0
   visemeTestKeys: 600000000900000071000000770000006500000072000000740000007900000075000000690000006f000000700000005b0000005d0000005c000000
@@ -268,7 +268,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 720023c2dddc1be41ab24d3a778efcc1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2103,6 +2103,11 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!137 &2111965557 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 6011831209810146449, guid: b701ff1d661aa3842adbfe28e7000efb, type: 3}
+  m_PrefabInstance: {fileID: 1749700987681692786}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2131513098
 GameObject:
   m_ObjectHideFlags: 0
